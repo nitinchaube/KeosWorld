@@ -1,4 +1,4 @@
-# 🛍️ KeosStall — E-commerce Platform
+# 🛍️ KeosWorld — E-commerce Platform
 
 An end-to-end e-commerce web application where users can browse products, manage carts, place orders, and admins can manage inventory. Built with **React, Redux, Node.js, Express, MongoDB, and Firebase** for auth.
 
