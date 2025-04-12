@@ -10,7 +10,6 @@ An end-to-end e-commerce web application where users can browse products, manage
 
 [![Watch Demo](https://img.youtube.com/vi/JZg64Wgq-54/0.jpg)](https://youtu.be/JZg64Wgq-54)
 
-> Replace `YOUR_VIDEO_ID_HERE` with the actual YouTube or Loom video ID or full video URL if needed.
 
 ---
 
@@ -39,8 +38,8 @@ An end-to-end e-commerce web application where users can browse products, manage
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/keosstall.git
-cd keosstall
+git clone https://github.com/nitinchaube/KeosWorld.git
+cd KeosWorld
 
 # Install dependencies
 npm install
